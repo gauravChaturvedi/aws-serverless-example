@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "aws-example-executor",
+    "name": "aws-example",
+    "region": "eu-central-1"
+  },
+  "api": {
+    "id": "mm0yjt01q2"
+  }
+}
