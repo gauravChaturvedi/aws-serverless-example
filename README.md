@@ -1,1 +1,3 @@
-# aws-example
+# Serverless Example Application with AWS Lambda 
+
+This is the example code from my medium series, [Part 1](https://medium.com/@timo.wagner/how-to-build-an-api-endpoint-with-node-js-aws-lambda-and-aws-rds-postgresql-db-part-1-a9766bb0de3), [Part 2](https://medium.com/@timo.wagner/how-to-build-an-api-endpoint-with-node-js-aws-lambda-and-aws-rds-postgresql-db-part-2-a0627ca80a26), [Part 3](https://medium.com/@timo.wagner/how-to-build-an-api-endpoint-with-node-js-aws-lambda-and-aws-rds-postgresql-db-part-3-e76f2efede4e), about building an API endpoint with Node.js, AWS Lambda and AWS RDS PostgreSQL DB AWS lambda services. The Node.js code is just a basic CRUD application for item entities.
